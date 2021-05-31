@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-n536wag5x-dilumikanawodya.vercel.app//api/spotify)](https://open.spotify.com/user/315p66lp7gptuevxsaiu2swss434)
+[![Spotify](https://novatorem-2dh5k0qw3-dilumikanawodya.vercel.app/api/spotify)](https://open.spotify.com/user/315p66lp7gptuevxsaiu2swss434)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
